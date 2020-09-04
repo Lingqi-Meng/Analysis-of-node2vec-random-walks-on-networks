@@ -10,8 +10,9 @@ Select `Spectral gap analysis.ipynb` to evaluate and plot the spectral gap for t
 
 * If you need to consider a different network data set, you can
 
-1. download the empirical data set from the hyperlink above.
+Step 1. download the empirical data set from the hyperlink above or some other sources.
 
-2. Replace the code in the cell [2] by your target data set. 
+Step 2. Replace the code in the cell [2] by your target data set. 
 
-3. Restart the kernel in Jupyter notebook.
+Step 3. Restart the kernel in Jupyter notebook.
+
