@@ -18,4 +18,4 @@ Please cite:
 
 [Email](http://networkrepository.com/email-univ.php)
 
-See [this documentation](https://scola.readthedocs.io/en/latest/) for the installation and usage.
+Select `Spectral gap analysis`
