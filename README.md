@@ -6,7 +6,7 @@ Spectral gap analysis.py can be used to evaluate the spectral gap and plot the h
 
 Please cite:
 
-[Sadamori Kojaku and Naoki Masuda. Proceedings of the Royal Society A, 475, 2231 (2019)](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2019.0578?af=R&)
+[Vole network](http://networkrepository.com/mammalia-voles-bhp-trapping-55.php)
 
 [Preprint](https://arxiv.org/abs/1903.10805)
 
