@@ -1,2 +1,2 @@
-## Analysis of node2vec random walks on networks
+### Analysis of node2vec random walks on networks
  
