@@ -2,7 +2,7 @@
 
 ## Desription
 
-Spectral gap analysis.py can be used to evaluate the spectral gap and plot the heat map shown in Fig.2 directly.
+Select `Spectral gap analysis.ipynb` to evaluate the spectral gap for the node2vec random walks on empirical or synthetic networks. The vole network is used in in cell [2] in `Spectral gap analysis.ipynb`
 
 Please cite:
 
@@ -18,4 +18,4 @@ Please cite:
 
 [Email](http://networkrepository.com/email-univ.php)
 
-Select `Spectral gap analysis`
+Select `Spectral gap analysis.ipynb` to evaluate the spectral gap of the node2vec random walks. The vole network
