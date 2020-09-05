@@ -10,13 +10,13 @@ Select `Spectral gap analysis.ipynb` to evaluate and plot the spectral gap for t
 
 * If you need to consider a different network data set (other than the [Vole](http://networkrepository.com/mammalia-voles-bhp-trapping-55.php) network), you can
 
-Step 1. download the empirical data set from the hyperlink above or some other sources.
+Step 1. Download the empirical data set from the hyperlink above or some other sources.
 
 Step 2. Replace the code in the cell [2] by your target data set. 
 
 Step 3. Restart the kernel in Jupyter notebook.
 
-![figusd](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image1.png)
+![Spectral gap for empirical networks](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image1.png)
 
 
 ## Spectral gap for extended ring networks
