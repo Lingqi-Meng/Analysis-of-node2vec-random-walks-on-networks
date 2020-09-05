@@ -1,6 +1,6 @@
 # Analysis of node2vec random walks on networks
 
-1. [About](#Spectral gap for empirical networks)
+1. [About](# Spectral gap for empirical networks)
 1. [Installing](#installing)
 1. [Building From Source](#building-from-source)
 1. [UI Module Overview](#ui-module-overview)
