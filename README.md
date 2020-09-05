@@ -39,4 +39,4 @@ Select `Mean coalescence time.ipynb` to evaluate and plot the mean coalescence t
 
 ## Dependence of the relaxation speed on the second largest eigenvalue of T
 
-Please run `Relaxation time.ipynb` to see the result. If you need to consider a different network other than the vole network, change the code in cells [2] and [6]. The instruction is the same as the one in ## Spectral gap for empirical networks
+Please run `Relaxation time.ipynb` to see the result. If you need to consider a different network other than the vole network, change the code in cells [2] and [6]. The instruction is the same as the one in ## Spectral gap for empirical networks##
