@@ -1,13 +1,5 @@
 # Analysis of node2vec random walks on networks
 
-1. [About](#spectral gap for empirical networks)
-1. [Installing](#installing)
-1. [Building From Source](#building-from-source)
-1. [UI Module Overview](#ui-module-overview)
-1. [Troubleshooting](#troubleshooting)
-1. [Cactbot Customization](#cactbot-customization)
-1. [Supported Languages](#supported-languages)
-
 ## Spectral gap for empirical networks
 
 Select `Spectral gap analysis.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on empirical networks. The vole network is used in the cell [2] of `Spectral gap analysis.ipynb`
@@ -47,4 +39,4 @@ Select `Mean coalescence time.ipynb` to evaluate and plot the mean coalescence t
 
 ## Dependence of the relaxation speed on the second largest eigenvalue of T
 
-Please run `Relaxation time.ipynb` to see the result. If you need to consider a different network other than the vole network, change the code in cells [2] and [6]. The instruction is the same as the one in [Spectral gap for empirical networks]()
+Please run `Relaxation time.ipynb` to see the result. If you need to consider a different network other than the vole network, change the code in cells [2] and [6]. The instruction is the same as the one in ## Spectral gap for empirical networks
