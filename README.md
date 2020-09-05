@@ -21,7 +21,7 @@ Step 3. Restart the kernel in Jupyter notebook.
 
 ## Spectral gap for extended ring networks
 
-Select `Extended ring network.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on extended ring networks. Users can change the number of nodes in the extended ring network by changing `size` in cell [3]. The number of nodes in the code is 100.
+Select `Extended ring network.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on extended ring networks. You can change the number of nodes in the extended ring network by changing `size` in cell [3]. The number of nodes in the example code is 100.
 
 ![Spectral gap for extended ring networks](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image2.png)
 
