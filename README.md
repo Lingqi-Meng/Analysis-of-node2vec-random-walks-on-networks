@@ -27,7 +27,9 @@ Select `Extended ring network.ipynb` to evaluate and plot the spectral gap for t
 
 ## Spectral gap for two-layer extended ring networks
 
-Select `Two layer extended ring network.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on two-layer extended ring networks.
+Select `Two layer extended ring network.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on two-layer extended ring networks. Users can change the number of nodes $N^\prime$ in the two-layer extended ring networks and the weight $w$
+
+![Spectral gap for two-layer extended ring networks](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image3.png)
 
 ## Mean coalescence time evaluation
 
