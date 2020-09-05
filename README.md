@@ -16,6 +16,8 @@ Step 2. Replace the code in the cell [2] by your target data set.
 
 Step 3. Restart the kernel in Jupyter notebook.
 
+![figusd](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image1.png)
+
 
 ## Spectral gap for extended ring networks
 
