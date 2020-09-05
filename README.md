@@ -2,7 +2,7 @@
 
 ## Spectral gap for empirical networks
 
-Select `Spectral gap analysis.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on empirical networks. The vole network is used in the cell [2] of `Spectral gap analysis.ipynb`
+Select `Spectral gap analysis.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on empirical networks. The vole network is used in the cell [2].
 
 * One can download the data set from [Network Repository](http://networkrepository.com/). To save the readers' time, we present the hyperlinks for the data used in Fig.2 in the main text:
 
