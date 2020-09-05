@@ -33,4 +33,6 @@ Select `Two layer extended ring network.ipynb` to evaluate and plot the spectral
 
 ## Mean coalescence time evaluation
 
-Select `Mean coalescence time.ipynb` to evaluate and plot the mean coalescence time on two-clique networks.
+Select `Mean coalescence time.ipynb` to evaluate and plot the mean coalescence time on two-clique networks. Users can change the initial conditions, clique size, and weight of the bridge by changing `p`, `size`, and `weight` respectively. **Note that the variable `size` in cell [3] is the same as $N/2$ in Fig.9 in our paper, NOT $N$.** The number of nodes in one clique
+
+![Mean coalescence time](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image4.png)
