@@ -36,3 +36,7 @@ Select `Two layer extended ring network.ipynb` to evaluate and plot the spectral
 Select `Mean coalescence time.ipynb` to evaluate and plot the mean coalescence time on two-clique networks. Users can change the initial conditions, clique size, and weight of the bridge by changing `p`, `size`, and `weight` respectively. **Note that the variable `size` in cell [3] is the same as $N/2$ in Fig.9 in our paper, NOT $N$.** The initial condition is in our code is the uniformly random condition. The clique size is 100, i.e., N=200, and weight $w=1$.
 
 ![Mean coalescence time](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image4.png)
+
+## Dependence of the relaxation speed on the second largest eigenvalue of T
+
+Please run `Relaxation time.ipynb` to see the result. If you need to consider a different network other than the vole network, change the code in cells [2] and [6]. The instruction is the same as the one in (# Spectral gap for empirical networks)
