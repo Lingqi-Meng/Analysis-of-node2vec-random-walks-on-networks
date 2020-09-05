@@ -27,7 +27,7 @@ Select `Extended ring network.ipynb` to evaluate and plot the spectral gap for t
 
 ## Spectral gap for two-layer extended ring networks
 
-Select `Two layer extended ring network.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on two-layer extended ring networks. Users can change the number of nodes $N^\prime$ and the weight $w$ in the two-layer extended ring networks. Note that the variable `size` in cell [3] is the same as $N^\prime$ in Fig.6 in our paper, NOT $N$. The number of nodes in one layer in our code is 100, and the weight is 1.
+Select `Two layer extended ring network.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on two-layer extended ring networks. Users can change the number of nodes $N^\prime$ and the weight $w$ in the two-layer extended ring networks. **Note that the variable `size` in cell [3] is the same as $N^\prime$ in Fig.6 in our paper, NOT $N$.** The number of nodes in one layer in our code is 100, and the weight is 1.
 
 ![Spectral gap for two-layer extended ring networks](https://github.com/Lingqi-Meng/Analysis-of-node2vec-random-walks-on-networks/blob/master/images/image3.png)
 
