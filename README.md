@@ -4,7 +4,7 @@
 
 Select `Spectral gap analysis.ipynb` to evaluate and plot the spectral gap for the node2vec random walks on empirical networks. The vole network is used in the cell [2].
 
-* One can download the data set from [Network Repository](http://networkrepository.com/). To save the readers' time, we present the hyperlinks for the data used in Fig.2 in the main text:
+* One can download the data set from [Network Repository](http://networkrepository.com/). To save the readers' time, we present the hyperlinks for the data used in Fig. 2 in our [main text](https://arxiv.org/abs/2006.04904#:~:text=Algorithm%20node2vec%20employs%20biased%20random,label%20classification%20and%20link%20prediction.&text=The%20node2vec%20random%20walk%20is%20a%20second%2Dorder%20Markov%20chain.):
 
 [Vole](http://networkrepository.com/mammalia-voles-bhp-trapping-55.php), [Dolphin](http://networkrepository.com/dolphins.php), [Enron](http://networkrepository.com/email-enron-only.php), [Jazz](http://networkrepository.com/jazz.php), [Coauthorship](http://networkrepository.com/ca-netscience.php), [Email](http://networkrepository.com/email-univ.php)
 
